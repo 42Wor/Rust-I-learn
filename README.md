@@ -20,6 +20,10 @@
 
 ## Common Commands
 
+- New project:
+    ```sh
+    cargo new <project_name>
+    ```
 - Build the project:
     ```sh
     cargo build
@@ -54,3 +58,4 @@
     ```sh
     cargo clean
     ```
+  
